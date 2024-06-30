@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS albums (
+  id SERIAL,
+  name VARCHAR,
+  review VARCHAR
+)

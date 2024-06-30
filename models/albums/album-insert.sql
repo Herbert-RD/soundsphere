@@ -1,0 +1,1 @@
+INSERT INTO albums (name, review) VALUES ('DARK SIDE', 'BOM');
